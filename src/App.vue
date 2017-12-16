@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <portal target-el="#pageNav">
+      <div>
+        content from portal-vue
+      </div>
+    </portal>
     <img src="./assets/logo.png">
     <HelloWorld/>
   </div>
