@@ -26,3 +26,5 @@ Run in dev mode, open in IE11. Note that #pageNav content is blank instead of "c
 Also, note that the IE11 console shows errors like:
 
 [Vue warn]: Error in render: "ReferenceError: 'Symbol' is undefined"
+
+Created for https://github.com/LinusBorg/portal-vue/issues/93
