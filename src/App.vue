@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <portal target-el="#pageNav">
+    <portal to="pageNav">
       <div>
         content from portal-vue
       </div>
